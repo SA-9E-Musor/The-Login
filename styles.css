@@ -1,0 +1,48 @@
+h1 {
+	background-image: url("header.jpg");
+	color: deeppink;
+	text-align: center;
+	border-radius: 35px;
+  background-position: left top;
+  background-repeat: repeat;
+ 
+
+}
+
+body {
+		background-image: url('pink.jpg');
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+  	input {
+  		width: 150%;
+  	}
+
+.container {
+	background-color: white;
+	width: 30%;
+	height: 420px;
+	margin: auto;
+	border: 5px solid;
+	border-color: white;
+	padding: 10px;
+	border-radius: 20%;
+}
+
+img {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: grey;
+  width: 150px;
+  position: absolute;
+      top: 22%;
+      left: 44%;
+}
+
+form {
+	  position: absolute;
+      top: 50%;
+      left: 40%;
+}
+
